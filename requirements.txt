@@ -5,3 +5,4 @@ asyncio==3.4.3
 time==1.0.0
 os==1.0.0
 collections==1.0.0
+requests==2.26.0
